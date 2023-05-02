@@ -1,4 +1,4 @@
-#Flood It
+# Flood_It
 
 unzip the archive to a folder of your choice.
 
